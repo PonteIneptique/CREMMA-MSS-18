@@ -1,43 +1,48 @@
-schema: "https://htr-united.github.io/schema/2021-10-15/schema.json"
+schema: https://htr-united.github.io/schema/2021-10-15/schema.json
 title: CREMMA Manuscrits du 18e
-url: 'https://github.com/HTR-United/CREMMA-MSS-18'
+url: https://github.com/HTR-United/CREMMA-MSS-18
 project-name: CREMMA
 authors:
-    - name: 'Falcoz'
-      surname: 'Elsa'
-      roles:
-      - 'transcriber'
-      - 'aligner'
-    - name: 'Clérice'
-      surname: 'Thibault'
-      roles:
-      - 'project-manager'
-      - 'quality-control'
-    - name: 'Chagué'
-      surname: 'Alix'
-      roles:
-      - 'project-manager'
-      - 'quality-control'
-description: >
-  Manuscripts of the 18th century
+- name: Falcoz
+  surname: Elsa
+  roles:
+  - transcriber
+  - aligner
+- name: "Cl\xE9rice"
+  surname: Thibault
+  roles:
+  - project-manager
+  - quality-control
+- name: "Chagu\xE9"
+  surname: Alix
+  roles:
+  - project-manager
+  - quality-control
+description: 'Manuscripts of the 18th century
+
+  '
 language:
-  - fra
-script: 
-  - Latn
-script-type: 'only-manuscript'
-time: 
-  notBefore: "1700"
-  notAfter: "1799"
-hands: 
-  count: '1-per-folder'
-  precision: 'exact'
+- fra
+script:
+- Latn
+script-type: only-manuscript
+time:
+  notBefore: '1700'
+  notAfter: '1799'
+hands:
+  count: 1-per-folder
+  precision: exact
 license:
-  - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
-format: 'Alto-XML'
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
 volume:
-    - {count: 152, metric: "lines"}
-    - {count: 7, metric: "files"}
-    - {count: 19, metric: "regions"}
-    - {count: 4395, metric: "characters"}
-transcription-guidelines: >
-    Abréviations conservées.
+- metric: characters
+  count: 4395
+- metric: files
+  count: 7
+- metric: lines
+  count: 152
+- metric: regions
+  count: 19
+transcription-guidelines: "Abr\xE9viations conserv\xE9es."
