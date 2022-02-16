@@ -44,5 +44,5 @@ volume:
 - metric: lines
   count: 437
 - metric: regions
-  count: 54
+  count: 53
 transcription-guidelines: "Abr\xE9viations conserv\xE9es."
