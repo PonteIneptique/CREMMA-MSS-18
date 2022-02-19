@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1729" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1730" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1731" LABEL="DropCapitalLine" DESCRIPTION="block type DropCapitalLine"/><OtherTag ID="BT1732" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1735" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/>
-    
+    <OtherTag ID="LT584" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT585" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT594" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/>
   </Tags>
   
   <Layout>
@@ -35,7 +35,7 @@
           
           
           <TextLine ID="eSc_line_f7b2d085"
-                    
+                    TAGREFS="LT584"
                     BASELINE="130 383 2663 362" 
                     HPOS="126"
                     VPOS="221"
@@ -52,7 +52,7 @@
           
           
           <TextLine ID="eSc_line_1a1be394"
-                    
+                    TAGREFS="LT584"
                     BASELINE="249 552 2642 531" 
                     HPOS="242"
                     VPOS="408"
@@ -69,7 +69,7 @@
           
           
           <TextLine ID="eSc_line_6b8ec39a"
-                    
+                    TAGREFS="LT584"
                     BASELINE="119 714 2719 699" 
                     HPOS="112"
                     VPOS="583"
@@ -86,7 +86,7 @@
           
           
           <TextLine ID="eSc_line_e2a6ec5b"
-                    
+                    TAGREFS="LT584"
                     BASELINE="123 872 2726 854" 
                     HPOS="116"
                     VPOS="738"
@@ -103,7 +103,7 @@
           
           
           <TextLine ID="eSc_line_88412b1a"
-                    
+                    TAGREFS="LT584"
                     BASELINE="130 1027 1769 1016" 
                     HPOS="123"
                     VPOS="918"
@@ -120,7 +120,7 @@
           
           
           <TextLine ID="eSc_line_fe57eefc"
-                    
+                    TAGREFS="LT584"
                     BASELINE="284 1185 2754 1174" 
                     HPOS="274"
                     VPOS="1058"
@@ -137,7 +137,7 @@
           
           
           <TextLine ID="eSc_line_823adf61"
-                    
+                    TAGREFS="LT584"
                     BASELINE="144 1340 1850 1350 2758 1333" 
                     HPOS="144"
                     VPOS="1217"
@@ -154,7 +154,7 @@
           
           
           <TextLine ID="eSc_line_1058b5e2"
-                    
+                    TAGREFS="LT584"
                     BASELINE="123 1501 643 1494" 
                     HPOS="112"
                     VPOS="1392"
@@ -171,7 +171,7 @@
           
           
           <TextLine ID="eSc_line_8b53d33c"
-                    
+                    TAGREFS="LT584"
                     BASELINE="320 1649 1041 1642 2899 1663" 
                     HPOS="309"
                     VPOS="1526"
@@ -188,7 +188,7 @@
           
           
           <TextLine ID="eSc_line_8e6bc84d"
-                    
+                    TAGREFS="LT584"
                     BASELINE="109 1807 2318 1818" 
                     HPOS="105"
                     VPOS="1688"
@@ -205,7 +205,7 @@
           
           
           <TextLine ID="eSc_line_e097dd3c"
-                    
+                    TAGREFS="LT584"
                     BASELINE="320 2012 1657 2004 2779 2029" 
                     HPOS="313"
                     VPOS="1867"
@@ -222,7 +222,7 @@
           
           
           <TextLine ID="eSc_line_a8e4368b"
-                    
+                    TAGREFS="LT584"
                     BASELINE="144 2184 1090 2170 2765 2177" 
                     HPOS="137"
                     VPOS="2047"
@@ -239,7 +239,7 @@
           
           
           <TextLine ID="eSc_line_8be25c0f"
-                    
+                    TAGREFS="LT584"
                     BASELINE="151 2339 1333 2325" 
                     HPOS="140"
                     VPOS="2233"
@@ -256,7 +256,7 @@
           
           
           <TextLine ID="eSc_line_257aa94f"
-                    
+                    TAGREFS="LT584"
                     BASELINE="341 2500 2786 2493" 
                     HPOS="337"
                     VPOS="2374"
@@ -273,7 +273,7 @@
           
           
           <TextLine ID="eSc_line_a71b371e"
-                    
+                    TAGREFS="LT584"
                     BASELINE="147 2652 2779 2641" 
                     HPOS="140"
                     VPOS="2532"
@@ -290,7 +290,7 @@
           
           
           <TextLine ID="eSc_line_a1314893"
-                    
+                    TAGREFS="LT584"
                     BASELINE="192 2841 2807 2792" 
                     HPOS="179"
                     VPOS="2659"
@@ -307,7 +307,7 @@
           
           
           <TextLine ID="eSc_line_e641c274"
-                    
+                    TAGREFS="LT584"
                     BASELINE="151 2972 1794 2937" 
                     HPOS="140"
                     VPOS="2828"
@@ -324,7 +324,7 @@
           
           
           <TextLine ID="eSc_line_e1d9d7b1"
-                    
+                    TAGREFS="LT584"
                     BASELINE="362 3127 1628 3116 2832 3130" 
                     HPOS="358"
                     VPOS="2982"
@@ -341,7 +341,7 @@
           
           
           <TextLine ID="eSc_line_ddc83de2"
-                    
+                    TAGREFS="LT584"
                     BASELINE="130 3295 2737 3267" 
                     HPOS="116"
                     VPOS="3144"
@@ -358,7 +358,7 @@
           
           
           <TextLine ID="eSc_line_460c7838"
-                    
+                    TAGREFS="LT584"
                     BASELINE="140 3450 2663 3433" 
                     HPOS="130"
                     VPOS="3317"
@@ -375,7 +375,7 @@
           
           
           <TextLine ID="eSc_line_7cd0e482"
-                    
+                    TAGREFS="LT584"
                     BASELINE="151 3598 1020 3591" 
                     HPOS="140"
                     VPOS="3489"
@@ -402,7 +402,7 @@
           
           
           <TextLine ID="eSc_line_76c40b7e"
-                    
+                    TAGREFS="LT584"
                     BASELINE="2538 307 2747 307" 
                     HPOS="2518"
                     VPOS="68"
