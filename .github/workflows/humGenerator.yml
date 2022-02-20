@@ -17,7 +17,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install htr-united-metadata-generator htruc
+        pip install htr-united-metadata-generator htruc anybadge
     - name: Run Report
       run: |
         humGenerator --group ./data/**/*.xml --github-envs --to-json updated_metrics.json
